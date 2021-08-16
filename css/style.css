@@ -85,6 +85,7 @@ color: #757575;
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .main-bunner-button-text{
@@ -146,6 +147,7 @@ background: #2F303A;
     padding: 5px;
     border: none;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 
